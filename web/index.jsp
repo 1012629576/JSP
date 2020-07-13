@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-  <title>购物车</title>
+  <title>购物车 </title>
 
   <style>
     body{
