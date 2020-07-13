@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>登 录</title>
+    <title>登录</title>
     <script>
         var e = '${sessionScope.loginError}';
         if(e=='false'){
