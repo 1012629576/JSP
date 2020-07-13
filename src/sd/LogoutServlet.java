@@ -29,4 +29,4 @@ public class LogoutServlet extends HttpServlet {
             response.sendRedirect("error.jsp");
         }
     }
-}
+} 
