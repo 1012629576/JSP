@@ -10,7 +10,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>购物车</title>
+    <title> 购物车</title>
 </head>
 <style type="text/css">
     table{
