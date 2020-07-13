@@ -32,7 +32,7 @@
     <input type="checkbox" name="hobbies" value="数码">数码
 
     <br>
-    性别：<input type="radio" name="sex" value="男" required>男
+    性别：<input type="radio" name="sex" value=" 男" required>男
     <input type="radio" name="sex" value="女" required>女
     <br>
     地址：<input type="address" name="address" required><br>
