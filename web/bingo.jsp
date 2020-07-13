@@ -11,7 +11,7 @@
     <title>Title</title>
 </head>
 <body>
-<h1>恭喜你成功注册</h1>
+<h1> 恭喜你成功注册</h1>
 您的个人信息如下：<br>
 用户名：${sessionScope.s_username} <br>
 密码：${sessionScope.s_password1} <br>
